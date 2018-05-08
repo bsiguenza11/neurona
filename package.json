@@ -1,0 +1,15 @@
+{
+  "name": "neurona",
+  "version": "1.0.0",
+  "description": "clase martes bryan, marvin, gaby",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "byran, marvin,gaby",
+  "license": "ISC",
+  "dependencies": {
+    "brainjs": "^0.7.4",
+    "serialport": "^6.2.0"
+  }
+}
